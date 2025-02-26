@@ -48,7 +48,7 @@ public class Main {
         System.out.print("Enter task: ");
         String task = scanner.nextLine();
         tasks.add(task);
-        System.out.println("Task added successfully!");
+        System.out.println("Added successfully!");
     }
 
     private static void viewTasks() {
